@@ -1,0 +1,15 @@
+#body{
+    background-image: url('../../images/thumbuiimg_38570157thumbeui850.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+#homePage{
+    padding: 122px;
+    font-size: 100px;
+    font-family: cursive;
+    color: antiquewhite;
+    text-shadow: 7px 5px black;
+}
+

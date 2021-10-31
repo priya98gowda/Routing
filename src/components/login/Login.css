@@ -1,0 +1,55 @@
+form{
+    width: 370px;
+    /* text-align: center; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin: 0 auto;
+    padding: 50px;
+    background-color: dimgray;
+}
+
+form input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid black;
+    color: black;
+    width: 100%
+}
+
+
+#h1L{
+    margin: 0 97px;
+    padding: 10px;
+    color: black;
+    font-family: revert;
+    font-size: 45px;
+}
+
+.bg{
+    background-color: dimgray;
+    height: 500px;
+    
+}
+
+b{
+    color: darkblue;
+}
+
+
+form button{
+    width: 100%;
+  background: transparent;
+  border-radius: 20px;
+  padding: 15px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 20px 0;
+  color: hsla(0, 0%, 100%, 0.5);
+  border: 1px solid hsla(0, 0%, 100%, 0.5);
+  cursor: pointer;
+}
+
+p{
+    margin: 0 0 0 -85px;
+
+}
